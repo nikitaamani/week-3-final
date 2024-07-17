@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3000/films";
+const BASE_URL = "https://week3finalll.vercel.app/films";
 let movies = []; // Global array to store fetched movies
 
 document.addEventListener("DOMContentLoaded", () => {
