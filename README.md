@@ -34,9 +34,9 @@ use ' code .' in your terminal it will lead to you to the vs-code.
 Download live server. Open index.html file, right click and choose the option for open with liveserver.
 ```
 
-- You can use this link and open the website to access the code.
+- this is the vercel deploy link
 ```
-https://vercel.com/nikitaamanis-projects/week-3-final
+https://vercel.com/new/nikitaamanis-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=week-3-final-c17bu7sey-nikitaamanis-projects.vercel.app&projectName=week-3-final..&s=https%3A%2F%2Fgithub.com%2Fnikitaamani%2Fweek-3-final&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&slug=app-future&slug=en-US&slug=new&slug=nikitaamanis-projects&slug=success
  ```
 
 
